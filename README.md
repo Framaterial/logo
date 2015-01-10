@@ -1,5 +1,5 @@
 ## Framaterial Logo
-#### Here is the different Framaterial logos format. 
+Here is the differents logos format. 
 
 #### Images
 ##### PNG
