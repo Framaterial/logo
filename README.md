@@ -3,7 +3,7 @@ Here is the differents Framaterial logos format.
 
 #### Images
 ##### PNG
-![PNG Logo](http://framaterial.github.io/logo/png/framaterial_logo.png)
+![PNG Logo](http://framaterial.github.io/logo/png/framaterial_logo.png) 
 ##### JPG
 ![JPG Logo](http://framaterial.github.io/logo/jpg/framaterial_logo.jpg)  
 ##### SVG
